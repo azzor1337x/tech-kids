@@ -1,48 +1,52 @@
 
 ---
 
+### 🧾 Sala Check-in
+
+* [ ] Computador ligado
+* [ ] Sistema funcionando
+* [ ] Internet funcionando
+* [ ] Impressora
+* [ ] Som ambiente
+* [ ] Caixa de Som
+
+---
+
 ## 🥇 Checklist — Sala por Sala
 
 ### 🏆 Sala Winners
 
 * [ ] TV ligada
-* [ ] Conteúdo Kids correto (YouTube / Vídeo)
-* [ ] Som funcionando
+* [ ] Conteúdo Jovem YouTube
+* [ ] Som funcionando (Caixa JBL)
 * [ ] Headset / Microfone funcionando
 * [ ] Ar-condicionado ligado (20–22 °C)
 * [ ] Luzes acesas
 * [ ] Cabos organizados
+* [ ] Ligar Aero Hockey
+* [ ] Radio Ligado (Canal 11)
 
 ---
 
 ### 🦸 Sala Heroes
 
 * [ ] TV ligada
-* [ ] Conteúdo correto
-* [ ] Som funcionando
-* [ ] Ar-condicionado ligado
+* [ ] Conteúdo Kids
+* [ ] Headset / Microfone funcionando
+* [ ] Ar-condicionado ligado (20–22 °C)
 * [ ] Luzes acesas
-* [ ] Porta fechada após desligamento (pós-culto)
-
----
-
-### 🧾 Sala Check-in
-
-* [ ] Computador ligado
-* [ ] Sistema funcionando
-* [ ] Internet funcionando
-* [ ] Impressora (se houver)
-* [ ] Som ambiente (se aplicável)
+* [ ] Radio Ligado (Canal 11)
 
 ---
 
 ### ❄️ Sala Alaska
 
-* [ ] TV / Projetor ligado
-* [ ] Conteúdo correto
-* [ ] Som funcionando
-* [ ] Ar-condicionado ligado
-* [ ] Luzes ajustadas
+* [ ] TV ligada
+* [ ] Conteúdo Kids
+* [ ] Headset / Microfone funcionando
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
+* [ ] Radio Ligado (Canal 11)
 
 ---
 
@@ -50,44 +54,48 @@
 
 * [ ] TV ligada
 * [ ] Conteúdo Kids
-* [ ] Som funcionando
-* [ ] Volume adequado (baixo)
-* [ ] Cabos fora do alcance das crianças
+* [ ] Headset / Microfone funcionando
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
+* [ ] Radio Ligado (Canal 11)
+* [ ] Carregador de Tags
 
 ---
 
 ### 👶 Sala Baby
 
 * [ ] TV ligada
-* [ ] Conteúdo Baby
-* [ ] Som funcionando
-* [ ] Volume baixo
-* [ ] Cabos protegidos
+* [ ] Conteúdo Kids
+* [ ] Headset / Microfone funcionando
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
+* [ ] Radio Ligado (Canal 11)
+* [ ] Carregador de Tags
 
 ---
 
 ### 🤱 Sala Amamentação
 
-* [ ] TV ligada
-* [ ] Conteúdo calmo
-* [ ] Som desligado ou bem baixo
-* [ ] Ambiente silencioso
+* [ ] TV ligada HDMI Culto
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
 
 ---
 
 ### 🧠 Sala Sensorial
 
-* [ ] Equipamentos ligados
-* [ ] Conteúdo específico da sala
-* [ ] Som funcionando
-* [ ] Luzes conforme orientação pedagógica
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
+* [ ] Ligar Som (O som do Park fica no armario da sala)
 
 ---
 
-### 🛝 Sala Park
+### 🛝 Park
 
-* [ ] Som ambiente funcionando
-* [ ] Iluminação ligada
-* [ ] Equipamentos protegidos
+* [ ] Microfone funcionando
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
+* [ ] Cabos organizados
+* [ ] Ligar Aero Hockey
 
 ---
