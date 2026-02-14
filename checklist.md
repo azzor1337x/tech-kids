@@ -1,6 +1,12 @@
 
 ---
 
+## ✅ Checklist Operacional — Tech Kids
+
+Este checklist deve ser utilizado no dia do servir para garantir que todos os ambientes estejam operacionais antes da entrada das crianças.
+
+---
+
 ## 1° Andar
 
 ### 🧾 Entrada — Checkin
