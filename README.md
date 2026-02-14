@@ -258,3 +258,41 @@ Chegar cedo permite que tudo esteja pronto **antes das crianças entrarem**.
 ---
 
 > ✔️ **Objetivo:** excelência, organização e uma experiência segura e acolhedora para crianças e voluntários.
+
+---
+
+## 🥈 Responsabilidades do Tech Kids
+
+### 🧑‍🔧 É responsabilidade do Tech Kids
+
+* Garantir funcionamento de:
+
+  * Som
+  * Vídeo
+  * Internet (quando necessário)
+  * Climatização
+  * Ambientação técnica
+* Operar ar-condicionado (somente Tech)
+* Atender chamados das salas
+* Comunicar falhas ao líder
+* Zelar pelos equipamentos
+* Desligar tudo no pós-culto
+
+---
+
+### ❌ NÃO é responsabilidade do Tech Kids
+
+* Organização pedagógica
+* Dinâmica com crianças
+* Conteúdo do culto
+* Escala de professores
+* Disciplina das turmas
+
+---
+
+##
+
+---
+
+💙 *Quando tudo funciona, ninguém percebe. E isso é excelência.*
+
