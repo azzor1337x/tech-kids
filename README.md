@@ -10,6 +10,26 @@ O objetivo é garantir **excelência, organização e segurança**, oferecendo u
 
 ---
 
+## 🔗 Materiais Oficiais da Área Tech Kids
+
+Toda a operação do Tech Kids se baseia nestes dois materiais principais:
+
+### 🔁 Fluxo Geral do Voluntário Tech Kids
+Representa a jornada completa do voluntário, do recebimento da escala até o checkout final.
+
+👉 [Visualizar Fluxo Geral (imagem)](./fluxo-tech-kids.png)
+
+[![Fluxo Geral do Tech Kids](./fluxo-tech-kids.png)](./fluxo-tech-kids.png)
+
+---
+
+### ✅ Checklist Operacional
+Checklist prático por ambiente, usado no dia do servir.
+
+👉 [Abrir Checklist Operacional](./checklist.md)
+
+---
+
 ## 🔁 Fluxo Geral do Voluntário Tech Kids
 
 > **Do recebimento da escala ao checkout final**
