@@ -1,7 +1,7 @@
 
 ---
 
-### 🧾 Sala Check-in
+### 🧾 Entrada — Checkin
 
 * [ ] Computador ligado
 * [ ] Sistema funcionando
