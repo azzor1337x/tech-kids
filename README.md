@@ -257,10 +257,6 @@ Chegar cedo permite que tudo esteja pronto **antes das crianças entrarem**.
 
 ---
 
-> ✔️ **Objetivo:** excelência, organização e uma experiência segura e acolhedora para crianças e voluntários.
-
----
-
 ## 🥈 Responsabilidades do Tech Kids
 
 ### 🧑‍🔧 É responsabilidade do Tech Kids
@@ -294,5 +290,6 @@ Chegar cedo permite que tudo esteja pronto **antes das crianças entrarem**.
 
 ---
 
-💙 *Quando tudo funciona, ninguém percebe. E isso é excelência.*
+> ✔️ **Objetivo:** excelência, organização e uma experiência segura e acolhedora para crianças e voluntários.
 
+---
