@@ -1,6 +1,8 @@
 
 ---
 
+## 1° Andar
+
 ### 🧾 Entrada — Checkin
 
 * [ ] Computador ligado
@@ -11,8 +13,6 @@
 * [ ] Caixa de Som
 
 ---
-
-## 🥇 Checklist — Sala por Sala
 
 ### 🏆 Sala Winners
 
@@ -36,6 +36,15 @@
 * [ ] Ar-condicionado ligado (20–22 °C)
 * [ ] Luzes acesas
 * [ ] Radio Ligado (Canal 11)
+
+---
+
+## 2° Andar
+
+### Corredor
+
+* [ ] Ar-condicionado ligado (20–22 °C)
+* [ ] Luzes acesas
 
 ---
 
