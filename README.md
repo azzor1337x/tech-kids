@@ -243,7 +243,7 @@ Chegar cedo permite que tudo esteja pronto **antes das crianças entrarem**.
 
 2. **Demais Salas**
 
-   * Winners → Alaska → Fazendinha → Park → Baby → Amamentação → Sensorial → Park
+   * Winners → Alaska → Fazendinha → Baby → Amamentação → Sensorial → Park
 
 ---
 
